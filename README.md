@@ -1,4 +1,4 @@
-# starter-express-api
+# VXS Amazon Scraper API
 
 This is the simplest possible nodejs api using express that responds to any request with: 
 ```
